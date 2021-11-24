@@ -1,0 +1,10 @@
+body{
+    background-color: pink;
+    color: white;
+}
+html{
+    behavior: smooth;
+}
+.name_object, #object, #Accuracy{
+    color: yellow;
+}
